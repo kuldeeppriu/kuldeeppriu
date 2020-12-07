@@ -2,7 +2,7 @@
 [![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com)
 
 - 🔭 I’m currently working on exploring python and javascript
-- 🌱 I’m currently learning aws sevices, CI/CD, GraphQL, 
+- 🌱 I’m currently learning aws sevices
 - 👯 I’m looking to collaborate on Open Source Projects
 - 💬 Ask me about *Ask me about Web Dev, Consciousness, Music, Optimization*
 - 📫 How to reach me: **kuldeep.genex@gmail.com**
